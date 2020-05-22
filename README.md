@@ -1,5 +1,7 @@
 # particle-picking
-particle picking for tomo
+Install requirements:
+
+pip install -r requirements.txt
 #
 
 Only two .py files are need for an automatic particle picking on tomogram ( already reconstruted from tilt series).
