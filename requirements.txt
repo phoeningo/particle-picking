@@ -1,0 +1,4 @@
+numba
+mrcfile
+numpy
+scikit-image
